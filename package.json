@@ -1,0 +1,17 @@
+{
+  "name": "clickmate",
+  "version": "1.0.0",
+  "description": "CSS button library that provides a variety of customizable button styles",
+  "main": "engine.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "css",
+    "buttons",
+    "ui",
+    "frontend"
+  ],
+  "author": "Dejan Dukic",
+  "license": "ISC"
+}
